@@ -1,0 +1,9 @@
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\bin\Debug\lab1DBMS.exe.config
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\bin\Debug\lab1DBMS.exe
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\bin\Debug\lab1DBMS.pdb
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.csprojResolveAssemblyReference.cache
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.Form1.resources
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.Properties.Resources.resources
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.csproj.GenerateResource.Cache
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.exe
+c:\users\alexandra\documents\visual studio 2015\Projects\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.pdb
